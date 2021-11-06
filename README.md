@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Dotnet Core
-- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | Redux | PrimeReact | Bootstrap | Styled Components | HTML | CSS 
+- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | Redux | PrimeReact | KendoReact | Bootstrap | Styled Components | HTML | CSS 
 - 🛢 &nbsp; Sql Server | MongoDb
 
 <br/>
