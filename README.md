@@ -16,6 +16,9 @@
 
 [![mohan-murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true)](https://github.com/mohan-murali)
 
+<a href="https://app.daily.dev/mohanmurali"><img src="https://api.daily.dev/devcards/8eff7607b16e4550a3a8b9940d080db4.png?r=84r" width="400" alt="Mohan Murali's Dev Card"/>   </a>
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
@@ -24,6 +27,8 @@
 <a href="https://www.linkedin.com/in/mohan-murali-b-m-24903864/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohanmuralid28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohanmuralid28@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+
 <!--
 **mohan-murali/mohan-murali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
