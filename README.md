@@ -16,8 +16,6 @@
 
 [![mohan-murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true)](https://github.com/mohan-murali)
 
-<a href="https://app.daily.dev/mohanmurali"><img src="https://api.daily.dev/devcards/8eff7607b16e4550a3a8b9940d080db4.png?r=84r" width="400" alt="Mohan Murali's Dev Card"/>   </a>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
