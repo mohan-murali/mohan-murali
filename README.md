@@ -20,8 +20,12 @@
 
 <br/>
 
-[![mohan-murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true)](https://github.com/mohan-murali)
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true&theme=radical&line_height=30" alt="mohan's stats"/>
+</p>
+<p align ="center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=mohan-murali&theme=redical" alt="mohan's activity graph"/>
+ </p>
 
 ### 🤝🏻 Connect with Me
 
