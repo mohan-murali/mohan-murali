@@ -29,7 +29,7 @@
 
 ### 🤝🏻 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://dev.to/_mohanmurali"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
 <a href="https://twitter.com/_MohanMurali" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
 <a href="https://www.linkedin.com/in/mohan-murali-b-m-24903864/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
