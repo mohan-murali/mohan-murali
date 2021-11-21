@@ -1,23 +1,29 @@
 ### 👋 Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво
-### 👨🏻‍💻 I am Mohan
+### 👨🏻‍💻 I am Mohan 
 - 🔭 I’m currently working as a developer in India
 - 👀 I’m interested in everything web and cloud
+- 🤔 I’m looking for help with understanding web 3 and devOps
 - 🌱 I’m currently learning NestJs
 - 💬 Ask me about Javascript, ReactJs, Dotnet Core
 
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 💻 &nbsp; Dotnet Core
 - 🌐 &nbsp; JavaScript | TypeScript | ReactJS | Redux | PrimeReact | KendoReact | Bootstrap | Styled Components | HTML | CSS 
 - 🛢 &nbsp; Sql Server | MongoDb
+
+### ⚡ Fun facts about me
+- I am a biblophile. I love to read
+- I love anime. My favourite anime is One piece
+- I am an encylopedia of mytical creatures
 
 <br/>
 
 [![mohan-murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true)](https://github.com/mohan-murali)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+### 🤝🏻 Connect with Me
 
 <p align="left">
 <a href="https://dev.to/_mohanmurali"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
@@ -25,6 +31,7 @@
 <a href="https://www.linkedin.com/in/mohan-murali-b-m-24903864/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohanmuralid28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohanmuralid28@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 
 
 <!--
