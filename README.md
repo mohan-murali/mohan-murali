@@ -25,9 +25,11 @@
 <p align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=mohan-murali&show_icons=true&theme=radical" alt="mohan's stats"/>
 </p>
+<!--
 <p align ="left">
   <img src = "https://activity-graph.herokuapp.com/graph?username=mohan-murali&theme=redical" alt="mohan's activity graph"/>
  </p>
+-->
 
 ### 🤝🏻 Connect with Me
 <p align="left">
@@ -36,11 +38,6 @@
 <a href="https://www.linkedin.com/in/mohan-murali-b-m-24903864/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohanmuralid28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohanmuralid28@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<!--
-
-
--->
-
 
 
 
