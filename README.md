@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a developer in India
 - 👀 I’m interested in everything web and cloud
 - 🤔 I’m looking for help with understanding web 3 and devOps
-- 🌱 I’m currently learning NestJs
+- 🌱 I’m currently learning DevOps
 - 💬 Ask me about Javascript, ReactJs, Dotnet Core
 
 
