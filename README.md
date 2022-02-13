@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Dotnet Core | Express
-- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | Redux | PrimeReact | KendoReact | Bootstrap | Styled Components | HTML | CSS 
+- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | PrimeReact | KendoReact | Bootstrap | Styled Components | HTML | CSS 
 - 🛢 &nbsp; Sql Server | MongoDb
 
 ### ⚡ Fun facts about me
