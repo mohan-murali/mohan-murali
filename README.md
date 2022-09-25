@@ -1,6 +1,6 @@
 ### 👋 Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво
 ### 👨🏻‍💻 I am Mohan 
-- 🔭 I’m currently working as a developer in India
+- 🔭 I’m currently studying masters in cloud computing
 - 👀 I’m interested in everything web and cloud
 - 🤔 I’m looking for help with understanding DevOps
 - 🌱 I’m currently learning DevOps
